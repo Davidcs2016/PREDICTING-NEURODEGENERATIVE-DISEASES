@@ -1,0 +1,2 @@
+# PREDICTING-NEURODEGENERATIVE-DISEASES
+Neurodegenerative diseases are a heterogeneous group of disorders that are characterized by the progressive degeneration of the structure and function of the central nervous system or peripheral nervous system. These diseases cause your brain and nerves to deteriorate over time. They can change your personality and cause confusion. They can also destroy your brain’s tissue and nerves.
